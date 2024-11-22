@@ -1,0 +1,15 @@
+/home/sonal/Documents/SendWizard/C#_Console/bin/Debug/net7.0/C#_Console
+/home/sonal/Documents/SendWizard/C#_Console/bin/Debug/net7.0/C#_Console.deps.json
+/home/sonal/Documents/SendWizard/C#_Console/bin/Debug/net7.0/C#_Console.runtimeconfig.json
+/home/sonal/Documents/SendWizard/C#_Console/bin/Debug/net7.0/C#_Console.dll
+/home/sonal/Documents/SendWizard/C#_Console/bin/Debug/net7.0/C#_Console.pdb
+/home/sonal/Documents/SendWizard/C#_Console/obj/Debug/net7.0/C#_Console.csproj.AssemblyReference.cache
+/home/sonal/Documents/SendWizard/C#_Console/obj/Debug/net7.0/C#_Console.GeneratedMSBuildEditorConfig.editorconfig
+/home/sonal/Documents/SendWizard/C#_Console/obj/Debug/net7.0/C#_Console.AssemblyInfoInputs.cache
+/home/sonal/Documents/SendWizard/C#_Console/obj/Debug/net7.0/C#_Console.AssemblyInfo.cs
+/home/sonal/Documents/SendWizard/C#_Console/obj/Debug/net7.0/C#_Console.csproj.CoreCompileInputs.cache
+/home/sonal/Documents/SendWizard/C#_Console/obj/Debug/net7.0/C#_Console.dll
+/home/sonal/Documents/SendWizard/C#_Console/obj/Debug/net7.0/refint/C#_Console.dll
+/home/sonal/Documents/SendWizard/C#_Console/obj/Debug/net7.0/C#_Console.pdb
+/home/sonal/Documents/SendWizard/C#_Console/obj/Debug/net7.0/C#_Console.genruntimeconfig.cache
+/home/sonal/Documents/SendWizard/C#_Console/obj/Debug/net7.0/ref/C#_Console.dll
